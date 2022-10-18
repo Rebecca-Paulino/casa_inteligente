@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main () {
-	printf("let me free");
+	printf("ldkvdsb");
 	return 0;
 }
