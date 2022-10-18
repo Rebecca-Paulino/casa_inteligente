@@ -1,6 +1,6 @@
-include <stdio.h>
+#include <stdio.h>
 
 int main () {
-	printf("olá turma");
+	printf("let me free");
 	return 0;
 }
